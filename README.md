@@ -31,7 +31,7 @@ Será necessário instalar as dependências do projeto back-end que está no dir
 
 ## Executando o back-end
 ```bash
-$ git clone https://github.com/danielfilh0/fincheck.git
+$ git clone https://github.com/samuelhuss/fincheck-front.git
 
 $ cd fincheck/api
 
